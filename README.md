@@ -3,10 +3,12 @@
  ## author
  ola ibrahim <a href="olaib@edu.hac.ac.il">olaib@edu.hac.ac.il</a>
  
- ## tasks
- זו הדרך
- אין לי ונגרט
- חתיכת עוגה
- cup of join
- לששנית
- כלים שלובים
+ ## tasks## tasks:
+<ul>
+<li>זו הדרך</li>
+<li>אין לי ונגרנט</li>
+<li>חתיכת עוגה</li>
+<li>cup of join</li>
+<li>כלים שלובים</li>
+<li>לחששנית</li>
+</ul>
