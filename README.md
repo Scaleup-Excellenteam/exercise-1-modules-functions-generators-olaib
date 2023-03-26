@@ -3,7 +3,7 @@
  ## author
  ola ibrahim <a href="olaib@edu.hac.ac.il">olaib@edu.hac.ac.il</a>
  
- ## tasks:
+ ## tasks
 <ul>
 <li>זו הדרך</li>
 <li>אין לי ונגרנט</li>
